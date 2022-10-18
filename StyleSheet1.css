@@ -1,0 +1,56 @@
+﻿body
+{
+}
+h2.box {
+    color: white;
+    border: 3px solid grey;
+    height: 40px;
+    width: 400px;
+    text-align: center;
+    margin: 0px 10px;
+    user-select: none;
+    display: flex;
+    flex-direction:column;
+}
+.green
+{background-color: forestgreen;}
+.blue {
+    background-color: dodgerblue;
+}
+.red {
+    background-color: red;
+}
+.orange {
+    background-color: orange;
+}
+.black {
+    background-color: black;
+}
+div.innerbox {
+    background-color: lightcyan;
+    margin: 0px 10px;
+    display: flex;
+    flex-direction:column;
+    width:400px;
+    border:3px solid grey;
+    border-bottom:none;
+    border-top:none;
+}
+ul.dots {list-style-type:circle;
+
+}
+.flex {
+    display:flex;
+    margin:0;
+    flex-direction:column;
+}
+li.none{
+    list-style-type:none;
+
+}
+.indent{
+    text-indent:10px;
+}
+ul.push{
+   margin:0px 0px 0px 40px;
+}
