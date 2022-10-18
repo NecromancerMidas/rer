@@ -5,7 +5,7 @@ h2.box {
     color: white;
     border: 3px solid grey;
     height: 40px;
-    width: 400px;
+    width: 600px;
     text-align: center;
     margin: 0px 10px;
     user-select: none;
@@ -31,7 +31,7 @@ div.innerbox {
     margin: 0px 10px;
     display: flex;
     flex-direction:column;
-    width:400px;
+    width:600px;
     border:3px solid grey;
     border-bottom:none;
     border-top:none;
