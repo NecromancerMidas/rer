@@ -54,3 +54,40 @@ li.none{
 ul.push{
    margin:0px 0px 0px 40px;
 }
+.nowrap{
+    display:inline
+}
+.margin{
+    margin-left:10px;
+}
+img.size{
+    display:flex;
+    justify-content:center;
+    margin:0px;
+    
+
+    
+}
+button.buttonleft{
+    display:flex;
+    justify-content:flex-start;
+}
+div.bottombox {
+    background-color: lightcyan;
+    margin: 0px 10px;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    border: 3px solid grey;
+    border-top: none;
+    align-items:center;
+
+}
+button.buttonright {
+    align-items:flex-end;
+}
+div.buttonstuff{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+}
